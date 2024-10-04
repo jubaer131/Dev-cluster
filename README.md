@@ -18,5 +18,5 @@
 # Technology Stack:
 
 * Backend: Node.js, Express.js (or similar).
-* Frontend: HTML5, CSS3, JavaScript.
+* Frontend: HTML5, CSS3, Tailwind css, JavaScript.
 * Database: MongoDB 
